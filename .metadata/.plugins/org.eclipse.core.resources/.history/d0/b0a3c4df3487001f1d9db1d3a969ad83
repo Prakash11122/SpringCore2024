@@ -1,0 +1,10 @@
+package com.it.pradhan;
+
+public class OracleCon {
+	
+	private String driver;
+	
+	private String url;
+	
+
+}
